@@ -11,18 +11,50 @@ The Flight Price Analysis Dashboard is designed to analyze and visualize flight 
 
 # Features
 Here are some key features of the Flight Price Analysis Dashboard:
-### Interactive Data Visualization – Displays flight prices using charts, graphs, and filters for easy comparison.
-### Airline Comparison – Compares ticket prices across different airlines to find the most economical options.
-### Route and Destination Analysis – Shows fare variations based on routes, destinations, and travel dates.
-### Trend Analysis – Highlights price trends over time to identify peak and off-peak periods.
-### Dynamic Filters and Slicers – Allows users to filter data by airline, date, destination, or class.
-### Average Fare Calculation – Automatically calculates and displays average ticket prices.
-### Performance Insights – Provides key metrics such as highest, lowest, and average fares for better decision-making.
+Interactive Data Visualization – Displays flight prices using charts, graphs, and filters for easy comparison.
+Airline Comparison – Compares ticket prices across different airlines to find the most economical options.
+Route and Destination Analysis – Shows fare variations based on routes, destinations, and travel dates.
+Trend Analysis – Highlights price trends over time to identify peak and off-peak periods.
+Dynamic Filters and Slicers – Allows users to filter data by airline, date, destination, or class.
+Average Fare Calculation – Automatically calculates and displays average ticket prices.
+Performance Insights – Provides key metrics such as highest, lowest, and average fares for better decision-making.
 
 # Dataset
 Flight ID | Airline | Source | Destination | Date | Class | Duration (hrs) | Stops | Price (INR).
 
 # Usage
+Here are some usages of the Flight Price Analysis Dashboard:
+Compare Airline Prices – Helps identify the most affordable or premium airlines for specific routes.
+Track Fare Trends – Analyzes how flight prices change over time or by season.
+Optimize Travel Planning – Assists travelers or companies in choosing cost-effective travel options.
+Analyze Route Performance – Evaluates which routes are most expensive or in high demand.
+Support Business Decisions – Helps travel agencies and airlines make data-driven pricing and marketing strategies.
+Visualize Key Insights – Presents complex flight data in easy-to-understand charts and dashboards.
+
+# Contributing
+Here are some contributions of the Flight Price Analysis Dashboard:
+Enhances Decision-Making – Provides clear insights into flight pricing trends for better travel and business planning.
+Saves Time and Effort – Automates data analysis, eliminating the need for manual comparison of flight fares.
+Improves Cost Efficiency – Helps identify the most economical flight options, reducing travel expenses.
+Supports Data-Driven Strategies – Aids airlines and agencies in understanding market patterns to adjust pricing strategies.
+Promotes Transparency – Displays all key metrics (fares, routes, airlines) in one place for easy access and comparison.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
