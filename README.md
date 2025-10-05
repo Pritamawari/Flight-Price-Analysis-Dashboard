@@ -39,6 +39,29 @@ Improves Cost Efficiency – Helps identify the most economical flight options, 
 Supports Data-Driven Strategies – Aids airlines and agencies in understanding market patterns to adjust pricing strategies.
 Promotes Transparency – Displays all key metrics (fares, routes, airlines) in one place for easy access and comparison.
 
+# Dashboard Features
+Interactive dashboard with slicers for Airline, Source, Destination, and Date of Journey.
+
+Visual representation of flight prices by route and airline.
+
+Comparison of average prices based on total stops.
+
+Trend analysis of flight prices over time.
+
+Map visualization showing flight routes.
+
+# Insight & Analysis
+Identify which airlines offer the most cost-effective fares.
+
+Observe how prices vary based on journey date or total stops.
+
+Detect high-demand routes with higher average prices.
+
+Evaluate performance and timing of flights across different routes.
+
+# Conclusion
+The Flight Price Analysis Dashboard provides valuable insights into flight pricing patterns and helps users make informed travel decisions. It’s an excellent project for showcasing Excel data analysis and visualization skills.
+
 
 
 
